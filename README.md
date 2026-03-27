@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krish%20Khandelwal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ML%20Engineer%20%7C%20Data%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krish%20Khandelwal&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=52&desc=ML%20Engineer%20%7C%20Data%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=F700FF&center=true&vCenter=true&random=false&width=700&lines=Hey+There!+I'm+Krish+👋;ML+%26+DL+Enthusiast+🤖;Data+Preprocessing+Expert+📊;Always+Learning+%26+Building+🚀)](https://git.io/typing-svg)
 
@@ -30,6 +30,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=krish14-ai&icon=0&color=6)](https://visitcount.itsvg.in)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
