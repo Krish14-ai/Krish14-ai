@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=500&color=F700FF&center=true&vCenter=true&random=false&width=900&lines=Hey+There!+I'm+Krish+👋;ML+%26+DL+Enthusiast+🤖;Data+Preprocessing+Expert+📊;Always+Learning+%26+Building+🚀)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 I'm currently working on: Building practical ML/DL models with strong data preprocessing pipelines<br>👯 I'm looking to collaborate on: Machine learning projects and real-world data-driven problems<br>🤝 I'm looking for help with: Improving model performance and understanding advanced ML concepts deeply<br>🌱 I'm currently learning: Machine learning, data preprocessing techniques, and problem solving using DSA<br>💬 Ask me about: Python, data preprocessing, DSA, and machine learning fundamentals<br>⚡ Fun fact: I enjoy breaking complex problems into smaller pieces — whether in code, data, or real life
+🔭 I'm currently working on: Building practical ML/DL models with strong data preprocessing pipelines<br>👯 I'm looking to collaborate on: Machine learning projects and real-world data-driven problems<br>🤝 I'm looking for help with: Improving model performance and understanding advanced ML concepts deeply<br>🌱 I'm currently learning: Machine learning, data preprocessing techniques, and problem solving using DSA<br>💬 Ask me about: Python, data preprocessing, DSA, and machine learning fundamentals<br>⚡ Fun fact: I enjoy learning new things, experimenting, failing and growing
 
 ## 🌐 Connect With Me
 
